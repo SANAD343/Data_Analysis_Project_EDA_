@@ -15,6 +15,8 @@ Each project follows a structured workflow:
 - Feature Engineering
 - Data Visualization
 - Insights & Recommendations
+![image](https://github.com/user-attachments/assets/a879c30e-3178-4039-92df-656e5fc15298)
+
 
 ## 🧰 Tools & Libraries Used
 
