@@ -28,6 +28,11 @@ Each project follows a structured workflow:
 - **SQL (for querying structured datasets)** (if applicable)
 - **Power BI / Excel** (if applicable)
 
-## 📁 Project Structure
+## 📂 Projects Included
 
-Each project is organized in its own folder with the following structure:
+| Project | Description | Status |
+|--------|-------------|--------|
+| `EDA - Book Sales & Ratings | This project explores and analyzes a dataset of over 1,000 books, focusing on sales performance, user ratings, author reputation, language distribution, and publisher revenue. | ✅
+| `EDA - Retail Sales Analysis` |  | 🛠️ In Progress|
+| `EDA - HR Analytics` |  | 🛠️ In Progress |
+| `EDA - COVID-19 Global Dataset` |  | 🛠️ In Progress |
