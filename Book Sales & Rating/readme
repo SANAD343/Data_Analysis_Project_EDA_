@@ -1,1 +1,49 @@
+# 📚 Book Sales and Ratings – Exploratory Data Analysis
 
+This project explores and analyzes a dataset of over 1,000 books, focusing on sales performance, user ratings, author reputation, language distribution, and publisher revenue. 
+The data was sourced from Kaggle and offers insights into how various factors influence a book's commercial and critical success.
+
+## 🔗 Dataset
+- [Kaggle Dataset: Book Sales and Ratings](https://www.kaggle.com/datasets/thedevastator/books-sales-and-ratings)
+
+---
+
+## 📌 Objective
+
+Perform Exploratory Data Analysis (EDA) to:
+- Clean and prepare the dataset
+- Understand book sales trends and user ratings
+- Visualize relationships across key variables (e.g., price vs. units sold)
+- Identify top-performing authors and publishers
+- Analyze genre and language impact on book performance
+
+---
+
+## 🛠️ Tools & Libraries Used
+
+- **Python**  
+- **Pandas** – Data manipulation  
+- **NumPy** – Numerical computations  
+- **Matplotlib & Seaborn** – Data visualization  
+- **Jupyter Notebook** – Code development environment
+
+---
+
+## 📊 Key Insights
+
+- 📈 Books published post-2000 tend to have higher unit sales and better ratings.
+- ⭐ Top-rated authors include **J.R.R. Tolkien**, **George R.R. Martin**, and **Bill Watterson**.
+- 💰 **Penguin Group (USA)** and **Random House LLC** dominate in publisher revenue.
+- 📦 Fiction is the most represented genre; English is the most common language.
+- 📉 No strong correlation between book price and units sold, suggesting other factors drive demand.
+
+---
+
+## Visualizations
+
+- 📌 Genre distribution via bar chart
+- 📌 Unit Sold vs Sale Price (scatter plot)
+- 📌 Average Rating per Author (sorted)
+- 📌 Publisher revenue analysis (bar plot)
+- 📌 Box plot: Units sold vs Author Rating
+- 📌 Language distribution via pie chart
