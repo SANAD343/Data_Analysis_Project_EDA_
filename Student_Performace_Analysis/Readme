@@ -1,1 +1,42 @@
+# 📊 EDA: Student Performance Indicator
+
+This project is an end-to-end exploratory data analysis (EDA) of student exam performance, aiming to understand how various socio-demographic and behavioral factors influence academic outcomes.
+
+## 📁 Dataset Overview
+
+- **Source**: [Kaggle - Students Performance in Exams](https://www.kaggle.com/datasets/spscientist/students-performance-in-exams)
+- **Records**: 1,000
+- **Features**:
+  - `gender`
+  - `race/ethnicity`
+  - `parental level of education`
+  - `lunch`
+  - `test preparation course`
+  - `math score`
+  - `reading score`
+  - `writing score`
+
+## 🎯 Objective
+
+To analyze the relationship between students' academic performance and other variables such as:
+
+- Gender
+- Ethnicity
+- Parental education level
+- Lunch status (standard vs. free/reduced)
+- Test preparation course completion
+
+## 🧰 Technologies & Tools
+
+- 🐍 Python
+- 📦 Pandas, NumPy
+- 📊 Seaborn, Matplotlib
+- 📒 Jupyter Notebook
+
+## 🔍 Key Insights
+
+- Students who completed the test preparation course performed significantly better across all subjects.
+- Parental education level correlates positively with student scores.
+- Female students scored higher in reading and writing, while male students performed slightly better in math.
+- Students receiving standard lunch generally scored higher than those on free/reduced lunch programs.
 
