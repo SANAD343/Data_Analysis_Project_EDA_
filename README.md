@@ -32,6 +32,6 @@ Each project follows a structured workflow:
 
 | Project | Description | Status |
 |--------|-------------|--------|
-| `EDA - Book Sales & Ratings | This project explores and analyzes a dataset of over 1,000 books, focusing on sales performance, user ratings, author reputation, language distribution, and publisher revenue. | ✅
-| `EDA - Student Performance Analysis` |  | 🛠️ In Progress|
+| `EDA - Book Sales & Ratings | This project explores and analyzes a dataset of over 1,000 books, focusing on sales performance, user ratings, author reputation, language distribution, and publisher revenue. | ✅ Done |
+| `EDA - Student Performance Analysis` | This project understands how the student's performance (test scores) is affected by other variables such as Gender, Ethnicity, Parental level of education, Lunch and Test preparation course. | ✅ Done|
 | `EDA - HR Analytics` |  | 🛠️ In Progress |
