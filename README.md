@@ -35,4 +35,3 @@ Each project follows a structured workflow:
 | `EDA - Book Sales & Ratings | This project explores and analyzes a dataset of over 1,000 books, focusing on sales performance, user ratings, author reputation, language distribution, and publisher revenue. | ✅
 | `EDA - Retail Sales Analysis` |  | 🛠️ In Progress|
 | `EDA - HR Analytics` |  | 🛠️ In Progress |
-| `EDA - COVID-19 Global Dataset` |  | 🛠️ In Progress |
